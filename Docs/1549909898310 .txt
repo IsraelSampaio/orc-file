@@ -1,0 +1,229 @@
+undefinedTECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+Disciplinas Engenharia e Projeto de Software
+Projeto Orientado à Objetos
+Programação para Web II o
+SemináriosV 5 Semestre
+Professores Anderson Emidio de Macedo Gonçalves
+Everson Matias de Morais
+Adriano Sepe
+Merris Mozer
+PRODUÇÃO TEXTUAL INTERDISCIPLINAR INDIVIDUAL
+Caro Aluno
+Seja bem-vindo a este sem estrel
+A proposta de Produção Textual Interdisciplinar Individual (PTI) terá como
+temática uma “Startup PuIseADS". Escolhemos esta temática para possibilitar a
+aprendizagem interdisciplinar dos conteúdos desenvolvidos nas disciplinas desse
+semestre
+Para a realização da atividade proposta, Ieiam com muita atenção o estudo de
+caso descrito no cenário “Startup PuIseADS".
+PROPOSTA DE TRABALHO
+Objetivo:
+- Trabalhar o conteúdo do eixo temático, incentivar a interatividade e a regionalidade e
+auxiliar na apIicação dos conceitos estudados. bem como Desenvolvimento de Sistemas
+de Informação III.
+CONTEXTUALIZAÇÃO
+Na Produção Textual em Grupo apresentamos um cenário imaginário de uma empresa,
+com um caso de uso detalhado para quer possa ser trabalhado todas as disciplinas já
+vistas até agora, enfatizando sempre as disciplinas correntes do semestre. Desta forma
+é possível ao aluno exercitar e apIicar o conhecimento adquirido com um cenário
+empresarial e iniciar a sua trajetória para construção de um sistema informatizado.
+Estudo de Caso: “Startup PuIseADS"
+
+TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+Prezados alunos, nesse semestre iremos trabalhar com a nossa Staríup PuIseAds.
+Nossa startup produzirá pulseiras com a tecnologia RFID. Nós seremos os fornecemos
+dessas pulseiras para grandes parques em todo o BrasiL
+
+_
+Vamos iniciar essa produçâo textuaL com algumas definições sobre esse cenário e
+pedimos que vocês Ieiam os Iinks para entenderem os conceitos e funcionamento de
+nossa startup e depois vocés trabalharão com os questionamentos dentro de cada
+disciplina do semestre.
+O que é uma staltup?
+httgs:l/exameabril.oom.bdmelogueeumastartug <aoosso 30jan19>
+Nem toda nova empresa é uma startup Iniciou-se com o conceito de que um grupo de
+pessoas trabalhando com uma ideia diferente que, aparentemente, poderia fazer
+dinheiro. Além disso, stanup sempre foi sinônimo de iniciar uma empresa e colocá-Ia
+em funcionamento.
+Tecnologia RFID para eventos
+httgszllgassevig.com.brftecnologia-n'id-Qara-eventos/ <acesso 30jan19>
+A tecnologia RFID (|dentificação por Rádio Frequência) funciona por meio da transmissão
+via rádio de informações, permitindo o armazenamento e retenção de dados de forma prática,
+rápida e segura. Isso signiñca que todas as pulseiras RFID posuem um chip e uma antena
+(mais conhecida oomo eüqueta ou tag) que realizam a oomuniwção entre o usuário, neste caso
+os consumos. etc) e a central de oontrole, esta comunicação ocorre com o uso de um
+dispositivo chamado Ieitora de identificação de radiofrequência, o seu funcionamento pode
+ser ativo ou pasiva No primeiro modo a Tag possui uma fonte de alimentação através de
+uma bateria e são capazes de enviar dados a um Ieitor por conta própria. Já no modo
+passivo, não há bateria e a corrente é fornecida peIo Ieitor. Quando posidonadas a apenas
+alguns centímetros de distância, isso permite uma transação de oompra de maneira prática para
+qualquer peâsoa que deseje consumir deniro do parque, além de muitos outros beneñcios
+As pulseiras que utiIizam esa tecnologia possuem recursos de oontrole, oontagem e
+atualização de dados em tempo real, basicamente funciona como um cartão no seu pulso.
+
+TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+Fontez httpszllprodutomercadolivre.com.br
+Trata-se de um sistema eIetrônico muito seguro e utiliza um sistema de pagamento pré-
+pago, ou seja, ao chegar no parque o cliente irá carregar sua pulseira com um
+determinado vanr e consumirá seus créditos enquanto Iá estiver. Elas sáo fundamentais
+para melhorar a efIciênda de prooessos oomo acesso a determinadas partes do parque, oomo
+áreas restntas. e também permite um oontrole de gastos e a própria segurança do usuán'0.
+ORIENTAÇÕES PARA A EXECUÇÃO DO TRABALHO
+
+Como já mencionado, a Startup PulseADS, presta serviços especializados,
+com profissionais extremamente capacitados, para grandes parques em todo o BrasiL
+Com os bons serviços prestados, viu a sua clientela aumentar rapidamente, isto por
+causa das recomendações e indicações dos próprios cIientes.
+
+Considere, que você faz parte da equipe de desenvolvimento de sistemas da
+nossa Startup PulseADS, uma empresa que foi contratada especialmente para
+desenvolver esta solução.
+
+Para melhor atender nossos clientes, você deverá efetuar aIgumas tarefas
+solicitadas pelos parques Vamos Iá!!!
+
+Tarefa 1:
+
+Considerando o contexto do estudo de caso deste trabalho, na qual, será
+necessário elaborar as atividades descritas com foco no desenvolvimento de uma
+apIicação para o controle dos créditos e débitos das pulseiras (parecidos com o modelo
+de cartão de débito/crédito) seguindo as diretrizes:
+
+1.1) Conter no mínimo os seguintes cadastros e funcionalidades:
+
+a) Cadastro de Pulseiras;
+b) Cadastro de CIientes;
+
+TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+
+c) Cadastro de Funcionários;
+
+d) Controle de Créditos e Débitos.
+Obs.: você deverá fazer um estudo de sistemas existentes, com o objetivo
+de verificar os campos necessários para a composição das telas para o
+projeto, não é necessário a prototipação da tela, somente a definição.
+1.2) A partir do estudo do item 1.1, elaborar o protótipo (desenho) de cada
+
+tela proposta para o sistema.
+
+1.3) Elaborar um plano de projeto contendo os seguintes itens:
+
+a) Objetivo;
+
+b) Justificativa;
+
+c) Escopo do Projeto;
+
+1. Descrição do escopo do projeto do estudo de caso;
+
+2. Apresentar o conceito e as vantagens em praticar o gerencíamento do
+escopo, ínclusive o diagrama da estrutura analítica do projeto (EAP) do
+PROJETO.
+
+d) Mapa Mental;
+
+e) Desenvolver um texto que explane o objetivo da utiIização da prática
+do gerenciamento do tempo, juntamente com a Iista de atividades e do
+cronograma (diagrama de Gantt) para o projeto;
+
+f) Proposta de metodologia de gestão de projeto com a descrição de suas
+principais características, podendo considerar métodos tradicionais e
+ágeis;
+
+g) Descrever um pIano de qualidade, baseado nas meIhores práticas do
+gerenciamento da qualidade para o projeto de acordo com padrão de
+qualidade ou modelo de maturidade no processo de desenvolvimento
+de software;
+
+h) Demonstrar a utilização do modelo BPR nas três atividades (escopo.
+tempo e qualidade)_ descrevendo as necessidades e a importância
+desta prática para manter o processo do negócio da organização em
+funcionamento.
+
+Tarefa 2:
+
+Com base no contexto da nossa stanup PuIseADS, elabore um pIano
+composto por vários artefatos que deverão ser considerados no projeto de
+desenvolvimento do software PulseConsumo.
+
+TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+
+O software PuIseConsumo terá o propósito de registrar todo o consumo
+efetuado por um cIiente, associando à sua puIseira. Lembre-se, precisamos criar um
+plano. e este servirá como subsídio para o futuro desenvolvimento do software. Este
+novo software PuIseConsumo deverá permitir:
+
+o Autenticação de funcionários permitir que os funcionários acessem as
+funcionalidades a partir de usuáriolsenha.
+
+o Registrar operação de venda: consiste em gerar um débito no saldo da
+puIseira utilizada pela cIiente, bem como a baixa no estoque de
+mercadorias.
+
+o Consultar saldo: possibilitar que o cIiente consiga consultar o saldo
+existente em sua puIseira.
+
+Vocês deverão, no mínimo, m os seguintes itens e seus subitens deverão
+fazer par1e deste pIano de desenvolvimentoz
+
+a) Diagrama de Caso de Uso
+
+b) Diagrama de Classe
+
+c) Mapeamento de Requisitos Funcionais e Não Funcionais
+
+d) DefInição de CicIo de Vida e Metodologia de Desenvolvimento
+
+e) Deflnição de Arquitetura (Lógica e Física)
+
+f) Padrões de Projeto (Design Patterns)
+
+g) Tecnologias Aplicadas
+
+h) Frameworks
+
+¡) Ferramentas
+
+Tarefa 3:
+
+De acordo com os requisitos e informações Ievantadas sobre o sistema que
+mantem os dados da puIseira. desenvolva uma página web que contemple a carga de
+créditos do cIiente em sua puIseira.
+
+Lembrando que não devemos nos preocupar com o sistema de comunicação
+e transmissão dos dados da puIseira para o sistema e do sistema para a puIseira.
+Considere que essa etapa já está desenvolvida
+
+Esta tarefa é relativa a disciplina de Programação para Web II, requer que seja
+criado o processo de carga de créditos na puIseira a partir de uma interface web. Para
+a identificação individual no sistema de cada puIseira, pode ser considerado um código
+sequenciaL ex: 1, 2, 3.... n. A partir disso a página web desenvolvida deve:
+
+1- Solicitar a identiflcação da puIseira;
+
+2- Solicitar o valor financeiro a ser creditado;
+
+TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+
+3- Efetuar a gravação do vanr;
+
+4- Desenvolver um front-end amigável de comunicação com o usuário.
+Lembrem -se que, qualquer dúvida entrem em contato com os tutores e consultem
+o material da disciplina disponíveL
+
+ORIENTAÇÕES PARA FORMATAÇÃO DO TRABALHO
+- A atividade deve ser realizada INDIVIDUALMENTE.
+- A produção textual deve ser elaborada conforme as normas da ABNT.
+- O trabalho deverá ser postado no portfólio, na pasta específlca, no prazo estipulado
+no Colaborar.
+- Em caso de dúvidas para elaboração do trabalho, você deverá buscar orientações na
+sala do tutor. Lembre-se de que o seu tutor a distância poderá postar informações
+importantes na sala do tutor para orientar o desenvolvimento deste trabalho e o mesmo
+está à disposição para sanar as possíveis dúvidas peIo sistema de mensagens também;
+- É sugerida a Ieitura de todo material disponibilizado no ambiente virtual para meIhor
+compreensão dos conceitos pesquisados, assim como, das bibliografias citadas nas
+disciplinas;
+- Atengão para o Qrazo de envio da atividade
+Bom trabalho!
+Equipe de professores.
+

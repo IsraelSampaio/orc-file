@@ -1,0 +1,40 @@
+{
+  "name": "type-scrypt",
+  "version": "1.0.0",
+  "description": "typeScrypt pp",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.ts",
+    "build": "sucrase ./src -d ./dist --transforms typescript,imports"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.8",
+    "@typescript-eslint/eslint-plugin": "^1.6.0",
+    "@typescript-eslint/parser": "^1.6.0",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "nodemon": "^1.18.10",
+    "prettier": "^1.16.4",
+    "sucrase": "^3.10.1",
+    "typescript": "^3.4.2"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "dotenv": "^7.0.0",
+    "fs-extra": "^7.0.1",
+    "gm": "^1.23.1",
+    "gm-base64": "^1.1.1",
+    "pdf-image": "^2.0.0",
+    "pdf-parse": "^1.1.1",
+    "pdf2pic": "^1.3.3",
+    "rimraf": "^2.6.3",
+    "tesseract.js": "^1.0.14"
+  }
+}
